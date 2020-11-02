@@ -1,7 +1,6 @@
 package com.github.hammynl.chef;
 
 import java.awt.Color;
-import java.util.Random;
 
 import org.javacord.api.DiscordApi;
 import org.javacord.api.DiscordApiBuilder;
