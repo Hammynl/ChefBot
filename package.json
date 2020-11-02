@@ -1,0 +1,16 @@
+{
+  "name": "chef",
+  "version": "1.0.0",
+  "description": "Chef is a bot which aims to clean up servers by having lots of utilities",
+  "main": "main.js",
+  "dependencies": {
+    "discord-akairo": "^8.1.0",
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hammynl",
+  "license": "MIT"
+}
